@@ -1,1 +1,1 @@
-# paklom.github.io
+# paklom_config.yml
